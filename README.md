@@ -1,50 +1,45 @@
 # Hello, I'm Aqib Hassan! 👋
 
-## Software Engineer | Blockchain Innovator | AI Enthusiast
+## Senior PHP Developer | Backend Engineering Specialist
 
-Located in London, UK, I specialize in creating cutting-edge fintech solutions, driving blockchain innovation, and exploring the frontiers of artificial intelligence. My passion lies in using technology to solve complex problems and deliver scalable, impactful solutions.
+Based in London, UK, I am an experienced software engineer specializing in backend development with a strong focus on the fintech sector. My career is driven by a passion for creating sophisticated, secure, and scalable financial solutions.
 
 ### 🌟 About Me
 
-- 🏢 I'm currently working as a **Back End Developer at Kuflink Ltd**.
-- 🎓 Graduated with a **MSc in Computer Science, Network Engineering** from the University of Greenwich.
-- 💼 Experienced in **Blockchain Development**, **Smart Contracts**, **AI** implementations, and **cloud-based architectures**.
+- 🏢 Currently working as a **Senior PHP Developer at Kuflink Ltd**.
+- 🎓 Holds an **MSc in Computer Science, Network Engineering** from the University of Greenwich.
+- 💼 Expert in **PHP, System Design, and cloud-based architectures**.
 
 ### 🚀 Key Projects
 
-- **Emotional Chatting Machine**: Developed an application to detect emotions from voice and chat using **Python**, **Django**, and **GPT-2**.
-- **Blockchain Credit Token Migration**: Led a project to reduce transaction costs significantly by migrating from Ethereum to Binance Smart Chain.
-- **Investment Forecast Calculator**: Built with AWS Lambda to aid in user onboarding by providing future investment insights.
+- **Investment Forecast Calculator**: Led the backend development using AWS Lambda, improving financial planning tools.
+- **Portfolio Statistics Page**: Created comprehensive dashboards for real-time financial analytics.
+- **Security Standards Migration**: Spearheaded the transition to up-to-date security protocols enhancing system integrity.
 
 ### 🛠️ Technical Stack
 
-- **Languages**: Python, JavaScript,PHP, Solidity, TypeScript
-- **Frameworks/Tools**: Node.js, Express.js, React.js, Laravel, Django
-- **Blockchain**: Ethereum, Smart Contracts, Web3.js, Hardhat
-- **Databases**: MySQL, Redis, MongoDB
+- **Languages**: PHP, JavaScript, TypeScript
+- **Frameworks/Tools**: Laravel, Node.js, Express.js, Angular, Vue.js
+- **Databases**: MySQL, Redis
 - **DevOps**: AWS, Docker, Jenkins, GitHub Actions
-- **AI/ML**: TensorFlow, Deep Learning, NLP
 
 ### 🏆 Achievements
 
-- Secured 3rd place in an external industry evaluation for my final year project.
-- Received a $1500 bounty for discovering a critical bug in a blockchain project.
+- **Industry Award**: Secured 3rd place in an industry evaluation for a groundbreaking final year project.
+- **Bug Bounty**: Earned a $1500 bounty for identifying a critical vulnerability in a blockchain platform.
 
 ### 🔍 Currently Learning
 
-- Diving deeper into **Advanced Blockchain Architectures**
-- Expanding my expertise in **Machine Learning** with a focus on predictive analytics
+- Exploring **Advanced AI Applications** and **System Design** to enhance decision-making capabilities and system robustness in fintech solutions.
 
 ### 📢 Speak & Connect
 
-- I love sharing my knowledge and connecting with like-minded professionals. Find me speaking at upcoming tech conferences or on my [LinkedIn](https://www.linkedin.com/in/aqib-hassan-325858187).
+- I am an active participant in tech conferences and a contributor to discussions on cutting-edge technology solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/aqib-hassan-325858187) for more insights.
 
 ### 📫 How to Reach Me
 
-Feel free to connect with me for collaborations or consultations:
-- 📧 **Email**: aqibhassanbhatti@gmail.com
-- 📞 **Phone**: +447915147705
+- **Email**: aqibhassanbhatti@gmail.com
+- **Phone**: +447915147705
 
 ---
-💡 "Innovating one project at a time" – Aqib Hassan
-
+💡 "Driving innovation in fintech one solution at a time." – Aqib Hassan
