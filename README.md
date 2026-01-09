@@ -1,45 +1,59 @@
 # Hello, I'm Aqib Hassan! 👋
 
-## Senior PHP Developer | Backend Engineering Specialist
+## Software Engineer | Founder | AI Researcher
 
-Based in London, UK, I am an experienced software engineer specializing in backend development with a strong focus on the fintech sector. My career is driven by a passion for creating sophisticated, secure, and scalable financial solutions.
+Based in London, UK. I build backend systems in fintech, run a travel eSIM startup, and publish AI research. I also mentor and judge at hackathons.
 
 ### 🌟 About Me
 
-- 🏢 Currently working as a **Senior PHP Developer at Kuflink Ltd**.
-- 🎓 Holds an **MSc in Computer Science, Network Engineering** from the University of Greenwich.
-- 💼 Expert in **PHP, System Design, and cloud-based architectures**.
+- 🚀 **Founder & CEO of HelloRoam** - travel eSIM platform covering 170+ countries
+- 🏢 **Software Engineer at Kuflink Ltd** (FCA-regulated fintech)
+- 🎓 **MSc Computer Science (Distinction)** from University of Greenwich
+- 📄 **4 peer-reviewed papers** in IEEE and Elsevier journals
 
-### 🚀 Key Projects
+### 🚀 What I'm Building
 
-- **Investment Forecast Calculator**: Led the backend development using AWS Lambda, improving financial planning tools.
-- **Portfolio Statistics Page**: Created comprehensive dashboards for real-time financial analytics.
-- **Security Standards Migration**: Spearheaded the transition to up-to-date security protocols enhancing system integrity.
+**HelloRoam** - A travel eSIM marketplace
+- 170+ countries, 63 languages, 20+ currencies
+- AI-powered content engine for multi-language pages at scale
+- Leading a team of engineers across UK and Pakistan
 
-### 🛠️ Technical Stack
+**Kuflink** - Backend systems for regulated finance
+- Repayments, interest engines, investor flows (PHP/Laravel)
+- Cut API response times by ~50% through query tuning
+- Reduced memory usage from ~8GB to ~3GB on long-running jobs
+- Led upgrades: Laravel 10→12, PHP 8.0→8.4 with zero downtime
 
-- **Languages**: PHP, JavaScript, TypeScript
-- **Frameworks/Tools**: Laravel, Node.js, Express.js, Angular, Vue.js
-- **Databases**: MySQL, Redis
-- **DevOps**: AWS, Docker, Jenkins, GitHub Actions
+### 🏆 Hackathon Wins
 
-### 🏆 Achievements
+- **ETHGlobal London 2024** - 3rd place (Uniswap) + Worldcoin Pool Prize
+- **Encode ETHLondon 2023** - $1,500 Etherspot bounty
 
-- **Industry Award**: Secured 3rd place in an industry evaluation for a groundbreaking final year project.
-- **Bug Bounty**: Earned a $1500 bounty for identifying a critical vulnerability in a blockchain platform.
+### 📄 Research Publications
 
-### 🔍 Currently Learning
+- **Hybrid CNN-BiGRU model for load forecasting** - Energy Reports (Elsevier), 2025
+- **Deep Learning for Wind Energy Forecasting** - IEEE ICEET, 2024
+- **DCCP vs TCP for Real-Time Applications** - IEEE ICEET, 2024
+- **ML Methods for Short-Term Load Forecasting** - IEEE ICECCE, 2024
 
-- Exploring **Advanced AI Applications** and **System Design** to enhance decision-making capabilities and system robustness in fintech solutions.
+### 🎤 Mentorship & Judging
 
-### 📢 Speak & Connect
+- **Judge & Mentor** - UK AI Agent Hackathon at Imperial College London (650+ participants)
+- **Volunteer Instructor** - Taught programming to 150+ students in Pakistan
 
-- I am an active participant in tech conferences and a contributor to discussions on cutting-edge technology solutions. Connect with me on [LinkedIn](https://www.linkedin.com/in/aqib-hassan-325858187) for more insights.
+### 🛠️ Tech Stack
 
-### 📫 How to Reach Me
+- **Backend**: PHP, Laravel, Node.js, Python
+- **Databases**: MySQL, Redis, PostgreSQL
+- **Cloud**: AWS (Lambda, EC2), Docker, GitHub Actions
+- **Blockchain**: Solidity, Hardhat, Ethers.js, EVM chains
+
+### 📫 Contact
 
 - **Email**: aqibhassanbhatti@gmail.com
-- **Phone**: +447915147705
+- **LinkedIn**: [linkedin.com/in/aqib-h](https://www.linkedin.com/in/aqib-h)
+- **Location**: London, UK
 
 ---
-💡 "Driving innovation in fintech one solution at a time." – Aqib Hassan
+
+💡 Building systems that work at 2am when users need them most.
